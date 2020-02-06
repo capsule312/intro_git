@@ -1,1 +1,3 @@
 変更
+·git add
+·git commit
